@@ -1,4 +1,4 @@
-package com.arquitecturajava.main;
+package com.arquitecturajava.main1;
 
 public class Main1 {
 
